@@ -21,7 +21,7 @@ Requests inclueds:
 * [(click)](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/Positive/Health-Check.md) Health Check - A simple health check endpoint to confirm whether the API is up and running.
 
 2. Negative Checks:
-* [(click)](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/Negative/Auth-With-Invalid-Password.md) Auth with Ivalid Password.
+* [(click)](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/Negative/Auth-With-Invalid-Password.md) Auth with Invalid Password.
 * [(click)](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/Negative/Auth-With-Empty-Body.md) Auth with empty body.
 * [(click)](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/Negative/Booking-Create-Without-TotalPrice.md) Booking create without total price.
 * [(click)](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/Negative/Booking-Create-With-Empty-Name.md) Booking create with empty name.
