@@ -27,7 +27,7 @@ Returns the ids of all the bookings that exist within the API. Can take optional
 ```json
 https://restful-booker.herokuapp.com/booking
 ```
-```jsonjs
+```json
 curl -i https://restful-booker.herokuapp.com/booking
 ```
 Response:
