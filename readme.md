@@ -30,7 +30,8 @@ Requests inclueds:
 
 
 [Folder with requests]().<br>
-[File with technice documentation]().
+[File with technice documentation]().<br>
+[Json file to import in Postman API]().
 
 ## AppsLoveWorld<br>
 [(click to visit site)](https://www.appsloveworld.com/sample-rest-api-url-for-testing-with-authentication).
