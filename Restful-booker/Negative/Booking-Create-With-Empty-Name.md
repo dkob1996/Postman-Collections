@@ -1,5 +1,5 @@
 ## Discription:
-We copy [Create Booking]() form the positive cases.
+We copy [Create Booking](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/Positive/Create-Booking.md) form the positive cases.
 And after that we delete info in tab 'body':
 ```
 We delete (*) info in 'firstname' and 'lastname', and now it's invalid.

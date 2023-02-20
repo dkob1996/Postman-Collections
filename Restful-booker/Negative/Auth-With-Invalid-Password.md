@@ -1,5 +1,5 @@
 ## Discription:
-We copy [Auth]() form the positive cases.
+We copy [Auth](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/Positive/Auth-CreateToken.md) form the positive cases.
 And after that we rewrite in tab 'body' password:
 ```
 We add (*) number 4 after number 3 in password, and now it's invalid.

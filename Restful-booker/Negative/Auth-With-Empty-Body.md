@@ -1,5 +1,5 @@
 ## Discription:
-We copy [Auth]() form the positive cases.
+We copy [Auth](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/Positive/Auth-CreateToken.md) form the positive cases.
 And after that we delete info in tab 'body':
 ```
 We delete (*) info in body, and now it's invalid.

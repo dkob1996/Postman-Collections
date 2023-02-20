@@ -1,5 +1,5 @@
 ## Discription:
-We copy [Booking Update]() form the positive cases.
+We copy [Booking Update](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/Positive/Booking-Update.md) form the positive cases.
 And after that we rewrite info in field cookie with parameter 'token' in tab 'header' and change {{token}} to 1234555:
 
 ## Results:

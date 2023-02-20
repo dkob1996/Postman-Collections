@@ -1,5 +1,5 @@
 ## Discription:
-We copy [Create Booking]() form the positive cases.
+We copy [Create Booking](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/Positive/Create-Booking.md) form the positive cases.
 And after that we delete one string 'totalprice' in tab 'body':
 ```
 We delete (*) string 'totalprice', and now it's invalid.

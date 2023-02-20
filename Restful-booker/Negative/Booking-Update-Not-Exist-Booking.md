@@ -1,5 +1,5 @@
 ## Discription:
-We copy [Booking Update]() form the positive cases.
+We copy [Booking Update](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/Positive/Booking-Update.md) form the positive cases.
 And after that we change {{bookingID}} to '0':
 ```
 We change it here (*).
