@@ -18,6 +18,7 @@ Requests inclueds:
 * Partial Update Booking - Updates a current booking with a partial payload.
 * Delete Booking - Returns the ids of all the bookings that exist within the API.
 * Health Check - A simple health check endpoint to confirm whether the API is up and running.
+
 2. Negative Checks:
 * Auth with Ivalid Password.
 * Auth with empty body.
@@ -29,9 +30,11 @@ Requests inclueds:
 
 
 
-[Folder with requests]().<br>
-[File with technice documentation]().<br>
-[Json file to import in Postman API]().
+[Folder with all requests](https://github.com/dkob1996/Postman-Collections/tree/main/Restful-booker).<br>
+[Folder with positive cases](https://github.com/dkob1996/Postman-Collections/tree/main/Restful-booker/Positive).<br>
+[Folder with negative cases](https://github.com/dkob1996/Postman-Collections/tree/main/Restful-booker/Negative).<br>
+[File with technice documentation](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/technice-documentation.md).<br>
+[Json file to import in Postman API](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/Restful-Booker%20Test1.postman_collection.json).
 
 ## AppsLoveWorld<br>
 [(click to visit site)](https://www.appsloveworld.com/sample-rest-api-url-for-testing-with-authentication).
