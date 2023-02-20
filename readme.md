@@ -1,6 +1,7 @@
 # At this page you can see:
 ## Postman API requests for several projects:
 ## Restful-booker. <br>
+### [Json file to import in Postman API](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/Restful-Booker%20Test1.postman_collection.json).<br>
 [(click to visit site)](https://restful-booker.herokuapp.com/apidoc/index.html).
 
 ### Description:
@@ -34,8 +35,6 @@ Requests inclueds:
 [Folder with positive cases](https://github.com/dkob1996/Postman-Collections/tree/main/Restful-booker/Positive).<br>
 [Folder with negative cases](https://github.com/dkob1996/Postman-Collections/tree/main/Restful-booker/Negative).<br>
 [File with technice documentation](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/technice-documentation.md).<br>
-
-### [Json file to import in Postman API](https://github.com/dkob1996/Postman-Collections/blob/main/Restful-booker/Restful-Booker%20Test1.postman_collection.json).
 
 ## AppsLoveWorld<br>
 [(click to visit site)](https://www.appsloveworld.com/sample-rest-api-url-for-testing-with-authentication).
