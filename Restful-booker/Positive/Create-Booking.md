@@ -1,9 +1,22 @@
-## Booking - GetBooking<br>
-Returns a specific booking based upon the booking id provided
-### Get
+## Booking - CreateBooking<br>
+Creates a new booking in the API
+### Post
 We use curl form documentation:
 ```json
-curl -i https://restful-booker.herokuapp.com/booking/
+curl -X POST \
+  https://restful-booker.herokuapp.com/booking \
+  -H 'Content-Type: application/json' \
+  -d '{
+    "firstname" : "Jim",
+    "lastname" : "Brown",
+    "totalprice" : 111,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2018-01-01",
+        "checkout" : "2019-01-01"
+    },
+    "additionalneeds" : "Breakfast"
+}'
 ```
 Answer form server:
 * Code 200 OK
