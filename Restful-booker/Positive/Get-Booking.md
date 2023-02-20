@@ -6,7 +6,7 @@ We use curl form documentation, but we change info form documentation in '*' pla
 * Here we change '1' to {{bookingID}}
 ```
 ```json
-curl -i https://restful-booker.herokuapp.com/booking/{{bookingID}} /*
+curl -i https://restful-booker.herokuapp.com/booking/{{bookingID}} //*
 ```
 Answer form server:
 * Code 200 OK

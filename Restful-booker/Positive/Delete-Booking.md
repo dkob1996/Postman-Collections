@@ -8,8 +8,8 @@ We use curl form documentation, but we change info form documentation in '*' and
 ```
 ```json
 curl -X DELETE \
-  https://restful-booker.herokuapp.com/booking/{{bookingID}} /*
-  -H 'Content-Type: application/json' \                      /**
+  https://restful-booker.herokuapp.com/booking/{{bookingID}} //*
+  -H 'Content-Type: application/json' \                      //**
   -H 'Cookie: token={{token}}'
 ```
 Answer form server:
